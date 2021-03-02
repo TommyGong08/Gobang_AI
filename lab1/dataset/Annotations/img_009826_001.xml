@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>VOC2007</folder>
+<filename>img_009826_001</filename>
+<source>
+<database>The VOC2007 Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>322409915</flickrid>
+</source>
+<owner>
+<flickrid>knautia</flickrid>
+<name>yang</name>
+</owner>
+<size>
+<width>&lt;DOM Element: width at 0x14eac18b638&gt;</width>
+<height>&lt;DOM Element: height at 0x14eac18b6d0&gt;</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>black</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>182</xmin>
+<ymin>111</ymin>
+<xmax>214</xmax>
+<ymax>143</ymax>
+</bndbox>
+</object>
+<object>
+<name>white</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>253</xmin>
+<ymin>253</ymin>
+<xmax>285</xmax>
+<ymax>285</ymax>
+</bndbox>
+</object>
+</annotation>
